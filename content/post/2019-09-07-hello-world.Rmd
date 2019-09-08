@@ -1,0 +1,31 @@
+---
+title: Hello World!
+author: Kishimoto Mariko
+date: '2019-09-07'
+slug: hello-world
+categories: []
+tags: []
+keywords:
+  - tech
+---
+
+<!--more-->
+
+```{r, include=FALSE}
+library(tidyverse)
+library(ghibli)
+```
+
+Hello Everyone,
+
+This is Mariko from Japan, and welcome You to my very new website which I created with [Blogdown](https://bookdown.org/yihui/blogdown/).
+
+I will post how I learn statistics and genomics using R and other tools. I will also post my participations in TidyTuesday!
+
+```{r}
+iris %>%
+  ggplot(aes(Sepal.Length, Sepal.Width, color = Species)) +
+  geom_point() +
+  theme_minimal() +
+  scale_colour_ghibli_d("LaputaMedium", direction = -1)
+```
