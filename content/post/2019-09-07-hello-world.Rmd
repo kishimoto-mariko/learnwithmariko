@@ -3,10 +3,14 @@ title: Hello World!
 author: Kishimoto Mariko
 date: '2019-09-07'
 slug: hello-world
+autoThumbnailImage: yes
+subtitle: ''
+summary: 'Welcome to my new website!'
 categories: []
 tags: []
 keywords:
   - tech
+draft: no
 ---
 
 <!--more-->
