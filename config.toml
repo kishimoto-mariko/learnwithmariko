@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Mariko Kishimoto"
-  bio = "Super bio with markdown support **COOL**"
+  bio = "I am learnig basic data anlysis and bioinformatics with **R**. Let's explore all kinds of data arounds us!"
   job = "PhD candidate"
   location = "Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -90,12 +90,12 @@ canonifyurls = true
 #  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
 #  url = "https://stackoverflow.com/users/636472/kakawait"
 
-[[menu.misc]]
-  weight = 1
-  identifier = "rss"
-  name = "RSS"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
-  url = "/index.xml"
+#[[menu.misc]]
+#  weight = 1
+#  identifier = "rss"
+#  name = "RSS"
+# pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
+# url = "/index.xml"
 
 [params]
   # Customize date format use to render blog post date, categories and other

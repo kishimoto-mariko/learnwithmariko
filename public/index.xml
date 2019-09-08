@@ -6,10 +6,22 @@
     <description>Recent content on Learn with Mariko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>こんにちは</title>
+      <link>/2019/09/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF/</guid>
+      <description>
+
+
+</description>
+    </item>
     
     <item>
       <title>Hello World!</title>
